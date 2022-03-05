@@ -15,5 +15,13 @@
         }
       }
     }
+  },
+  "function": {
+    "sarcasticg608e5060": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda",
+      "dependsOn": []
+    }
   }
 }
